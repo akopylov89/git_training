@@ -1,2 +1,3 @@
 New commit 1
 from branch_B
+from branch C
